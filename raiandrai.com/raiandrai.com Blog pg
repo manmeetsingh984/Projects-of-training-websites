@@ -1,0 +1,464 @@
+<!doctype html>
+<!--[if !IE]>      <html class="no-js non-ie" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en-US"> <![endif]-->
+<!--[if IE 9 ]>    <html class="no-js ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+<title>BLOG &#124; raiandrai.com</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://202.164.53.122/~manmeet/wordpress/xmlrpc.php" />
+
+
+<link rel="alternate" type="application/rss+xml" title="raiandrai.com &raquo; Feed" href="http://202.164.53.122/~manmeet/wordpress/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="raiandrai.com &raquo; Comments Feed" href="http://202.164.53.122/~manmeet/wordpress/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="raiandrai.com &raquo; BLOG Category Feed" href="http://202.164.53.122/~manmeet/wordpress/?feed=rss2&#038;cat=1" />
+<link rel='stylesheet' id='sweetcaptcha_Stylesheet-css'  href='http://202.164.53.122/~manmeet/wordpress/wp-content/plugins/sweetcaptcha-revolutionary-free-captcha-service/css/style.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='fsb-image-css'  href='http://202.164.53.122/~manmeet/wordpress/wp-content/plugins/simple-full-screen-background-image/includes/fullscreen-image.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-style-css'  href='http://202.164.53.122/~manmeet/wordpress/wp-content/themes/responsive/style.css?ver=1.9.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://202.164.53.122/~manmeet/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uaf_client_css-css'  href='http://202.164.53.122/~manmeet/wordpress/wp-content/plugins/use-any-font/css/uaf.css?ver=3.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://202.164.53.122/~manmeet/wordpress/wp-content/plugins/tablepress/css/default.min.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://202.164.53.122/~manmeet/wordpress/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://202.164.53.122/~manmeet/wordpress/wp-content/plugins/sweetcaptcha-revolutionary-free-captcha-service/js/jquery-ui.custom.min.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://202.164.53.122/~manmeet/wordpress/wp-content/plugins/sweetcaptcha-revolutionary-free-captcha-service/js/swtcptcf.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://202.164.53.122/~manmeet/wordpress/wp-content/plugins/scroll-rss-excerpt/scroll-rss-excerpt.js?ver=3.5.1'></script>
+<script type='text/javascript' src='http://202.164.53.122/~manmeet/wordpress/wp-content/themes/responsive/js/responsive-modernizr.js?ver=2.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://202.164.53.122/~manmeet/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://202.164.53.122/~manmeet/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.5.1, fitted with the WordPress Mobile Pack 1.2.5" />
+<meta name="DMSGuestbook" content="1.17.4" />
+<style type='text/css'>
+.css_guestbook_position {
+position:relative;
+left:0px;
+top:0px;}
+
+.css_guestbook_font_color {
+color:#000000;}
+
+.css_form_text {
+font-weight:normal;}
+
+.css_form_namefield {
+border:1px solid #DEDEDE;
+width:150px;
+color:#000000;}
+
+.css_form_emailfield {
+border:1px solid #DEDEDE;
+width:150px;
+color:#000000;}
+
+.css_form_urlfield {
+border:1px solid #DEDEDE;
+width:150px;
+color:#000000;}
+
+.css_form_additional_option {
+border:1px solid #DEDEDE;
+width:150px;
+color:#000000;}
+
+.css_form_textfieldspace {
+text-align:left;
+padding:5px 0px 0px 0px;
+margin:0px 0px;}
+
+.css_form_messagefield {
+border:1px solid #DEDEDE;
+width:80%;
+height:150px;
+color:#000000;}
+
+.css_form_antispamtext {
+text-align:center;}
+
+.css_form_antispamcontent {
+border:1px solid #DEDEDE;}
+
+.css_form_antispamcontent_position {
+text-align:center;
+padding:5px 0px;
+margin:0px 0px;}
+
+.css_form_antispam_inputfield {
+width:60px;
+border:1px solid #DEDEDE;
+color:#000000;}
+
+.css_form_submit {
+color:#000000;}
+
+.css_form_submit_position {
+text-align:center;
+padding:20px 0px 10px 0px;}
+
+.css_form_errormessage {
+color:#bb0000;
+font-size: 11px;
+text-decoration: none;
+font-weight:bold;}
+
+.css_form_successmessage {
+color:#00bb00;
+font-size: 11px;
+text-decoration: none;
+font-weight:bold;}
+
+.css_form_link {
+font-size:11px;
+position:relative;
+top:0px;
+left:0;}
+
+.css_navigation_totalcount {
+font-size:11px;
+left:0px;
+width:95%;
+text-align:center;
+padding:0px 0px 5px 10px;}
+
+.css_navigation_overview {
+left:0px;
+width:95%;
+text-align:center;
+padding:0px 0px 15px 12px;}
+
+.css_navigation_select {
+color:#bb1100;
+text-decoration:none;}
+
+.css_navigation_notselect {
+color:#000000;
+text-decoration:none;}
+
+.css_navigation_char {
+color:#000000;
+font-size:20px;
+text-decoration:none;
+font-weight:bold;}
+
+.css_navigation_char_position {
+left:0px;
+width:95%;
+padding:0px 0px 0px 10px;
+margin:0px 0px 20px 0px;
+text-align:center;}
+
+.css_post_header1 {
+font-size:11px;
+height:15px;}
+
+.css_post_header2 {
+width:20px;
+height:15px;}
+
+.css_post_header3 {
+width:20px;
+height:15px;}
+
+.css_post_header4 {
+font-size:11px;
+height:15px;}
+
+.css_post_email_image {
+height:15px;
+width:15px;
+border:0px;}
+
+.css_post_url_image {
+height:15px;
+width:15px;
+border:0px;}
+
+.css_post_separator {
+border: 1px solid #EEEEEE;
+height:1px;
+width:35%;
+text-align:left;
+margin:0px 0px 0px 0px;}
+
+.css_post_message {
+font-size:11px;
+margin:5px 0px 0px 0px;}
+
+.css_form_embedded {
+width:95%;
+border:1px solid #AAAAAA;
+font-size:12px;
+text-align:left;
+padding:0px 10px;
+margin:0px 0px 0px 0px;
+line-height:1.4em;}
+
+.css_post_embedded {
+width:95%;
+border:1px solid #AAAAAA;
+font-size:12px;
+text-align:left;
+padding:10px 10px;
+margin:0px 0px 0px 0px;
+line-height:1.4em;}
+a.css_navigation_char:hover {text-decoration:none; color:#000000;}
+a.css_navigation_select:hover {text-decoration:none; color:#bb1100;}
+a.css_navigation_notselect:hover {text-decoration:none; color:#000000;}
+img.css_post_url_image {border:0px;}
+img.css_post_email_image {border:0px;}</style><!-- HeadSpace SEO 3.6.41 by John Godley - urbangiraffe.com -->
+<!-- HeadSpace -->
+<!-- We need this for debugging -->
+<!-- Responsive 1.9.3.2 -->
+<!-- All in one Favicon 4.3 --><link rel="icon" href="http://202.164.53.122/~manmeet/wordpress/wp-content/uploads/2013/06/letter_r_black_970902.jpg" type="image/png"/>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f2f2f2; background-image: url('http://202.164.53.122/~manmeet/wordpress/wp-content/uploads/2013/06/black+wallpaper+yhj.jpg'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+</head>
+
+<body class="archive category category-blgi category-1 custom-background">
+                 
+<div id="container" class="hfeed">
+         
+        <div id="header">
+
+		    
+                
+       
+	               
+        <div id="logo">
+            <a href="http://202.164.53.122/~manmeet/wordpress/"><img src="http://202.164.53.122/~manmeet/wordpress/wp-content/uploads/2013/06/cropped-coollogo_com-2037841081.png" width="416" height="125" alt="raiandrai.com" /></a>
+        </div><!-- end of #logo -->
+        
+    
+        
+        	    <div id="top-widget" class="top-widget">
+                
+                        
+            <div id="text-3" class="widget_text"><div class="widget-title">Select Language</div>			<div class="textwidget"><meta name="google-translate-customization" content="ea66afeec086005-bd18edc78758cb0a-g2fdc68ec75a64c95-10" />
+<div id="google_translate_element"></div>
+<script type="text/javascript">// <![CDATA[
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+}
+// ]]></script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+&nbsp;</div>
+		</div>
+            
+            </div><!-- end of #top-widget -->
+					<div class="main-nav"><ul id="menu-menu" class="menu"><li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="http://202.164.53.122/~manmeet/wordpress/">Home</a></li>
+<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a href="http://202.164.53.122/~manmeet/wordpress/?page_id=543">Alma mater</a></li>
+<li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="http://202.164.53.122/~manmeet/wordpress/?page_id=526">Workplace</a></li>
+<li id="menu-item-301" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-301"><a href="http://202.164.53.122/~manmeet/wordpress/?cat=1">Blog</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="http://202.164.53.122/~manmeet/wordpress/?page_id=39">Interests</a></li>
+<li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44"><a href="http://202.164.53.122/~manmeet/wordpress/?page_id=40">Contact</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="http://202.164.53.122/~manmeet/wordpress/?page_id=52">Feedback</a></li>
+</ul></div>                
+            
+			 
+    </div><!-- end of #header -->
+        
+	    <div id="wrapper" class="clearfix">
+				
+<div id="content-archive" class="grid-right col-620 fit">
+
+	        
+        	<h6 class="title-archive">
+		Blog Archives	</h6>
+	                    
+                
+						<div id="post-492" class="post-492 post type-post status-publish format-standard hentry category-blgi">       
+				
+                
+				<h1 class="entry-title post-title"><a href="http://202.164.53.122/~manmeet/wordpress/?p=492" rel="bookmark">24th June</a></h1>
+
+<div class="post-meta">
+<span class="meta-prep meta-prep-author posted">Posted on </span><a href="http://202.164.53.122/~manmeet/wordpress/?p=492" title="7:20 pm" rel="bookmark"><span class="timestamp updated">June 24, 2013</span></a><span class="byline"> by </span><span class="author vcard"><a class="url fn n" href="http://202.164.53.122/~manmeet/wordpress/?author=2" title="View all posts by manmeetsingh984">manmeetsingh984</a></span>
+			<span class="comments-link">
+		<span class="mdash">&mdash;</span>
+	<a href="http://202.164.53.122/~manmeet/wordpress/?p=492#respond" title="Comment on 24th June">No Comments &darr;</a>		</span>
+	 
+</div><!-- end of .post-meta -->
+                
+                <div class="post-entry">
+                                        <p>The normal day started to work on my website and finally it&#8217;s ready today just I need a database from sir and its all done tomorrow I gonna put it on experimental server. Today I made changes in my site<span class="ellipsis">&hellip;</span>
+<div class="read-more"><a href="http://202.164.53.122/~manmeet/wordpress/?p=492">Read more &#8250;</a></div>
+<p><!-- end of .read-more --></p>
+                                    </div><!-- end of .post-entry -->
+                
+                
+
+	<div class="post-data">
+		 
+		Posted in <a href="http://202.164.53.122/~manmeet/wordpress/?cat=1" title="View all posts in BLOG" rel="category">BLOG</a> 
+	</div><!-- end of .post-data --> 
+ 
+           
+
+<div class="post-edit"></div>  				               
+				      
+			</div><!-- end of #post-492 -->       
+			            
+                
+						<div id="post-491" class="post-491 post type-post status-publish format-standard hentry category-blgi">       
+				
+                
+				<h1 class="entry-title post-title"><a href="http://202.164.53.122/~manmeet/wordpress/?p=491" rel="bookmark">22nd June</a></h1>
+
+<div class="post-meta">
+<span class="meta-prep meta-prep-author posted">Posted on </span><a href="http://202.164.53.122/~manmeet/wordpress/?p=491" title="6:17 pm" rel="bookmark"><span class="timestamp updated">June 23, 2013</span></a><span class="byline"> by </span><span class="author vcard"><a class="url fn n" href="http://202.164.53.122/~manmeet/wordpress/?author=2" title="View all posts by manmeetsingh984">manmeetsingh984</a></span>
+			<span class="comments-link">
+		<span class="mdash">&mdash;</span>
+	<a href="http://202.164.53.122/~manmeet/wordpress/?p=491#respond" title="Comment on 22nd June">No Comments &darr;</a>		</span>
+	 
+</div><!-- end of .post-meta -->
+                
+                <div class="post-entry">
+                                        <p>The day started with presentation on how to install osm on any laptop but do some problem it was taking too long after that there was presentation on sports website made in wordpress. After the presentation, I got some useful<span class="ellipsis">&hellip;</span>
+<div class="read-more"><a href="http://202.164.53.122/~manmeet/wordpress/?p=491">Read more &#8250;</a></div>
+<p><!-- end of .read-more --></p>
+                                    </div><!-- end of .post-entry -->
+                
+                
+
+	<div class="post-data">
+		 
+		Posted in <a href="http://202.164.53.122/~manmeet/wordpress/?cat=1" title="View all posts in BLOG" rel="category">BLOG</a> 
+	</div><!-- end of .post-data --> 
+ 
+           
+
+<div class="post-edit"></div>  				               
+				      
+			</div><!-- end of #post-491 -->       
+			            
+                
+						<div id="post-282" class="post-282 post type-post status-publish format-standard hentry category-blgi">       
+				
+                
+				<h1 class="entry-title post-title"><a href="http://202.164.53.122/~manmeet/wordpress/?p=282" rel="bookmark">21st June</a></h1>
+
+<div class="post-meta">
+<span class="meta-prep meta-prep-author posted">Posted on </span><a href="http://202.164.53.122/~manmeet/wordpress/?p=282" title="6:09 pm" rel="bookmark"><span class="timestamp updated">June 21, 2013</span></a><span class="byline"> by </span><span class="author vcard"><a class="url fn n" href="http://202.164.53.122/~manmeet/wordpress/?author=1" title="View all posts by admin">admin</a></span>
+			<span class="comments-link">
+		<span class="mdash">&mdash;</span>
+	<a href="http://202.164.53.122/~manmeet/wordpress/?p=282#respond" title="Comment on 21st June">No Comments &darr;</a>		</span>
+	 
+</div><!-- end of .post-meta -->
+                
+                <div class="post-entry">
+                                        <p>From last two days we are struggling with how to synchronize our website with blog but today we had entered rss feed in our website that displays last post from blog we are still searching for plugin that can synchronize<span class="ellipsis">&hellip;</span>
+<div class="read-more"><a href="http://202.164.53.122/~manmeet/wordpress/?p=282">Read more &#8250;</a></div>
+<p><!-- end of .read-more --></p>
+                                    </div><!-- end of .post-entry -->
+                
+                
+
+	<div class="post-data">
+		 
+		Posted in <a href="http://202.164.53.122/~manmeet/wordpress/?cat=1" title="View all posts in BLOG" rel="category">BLOG</a> 
+	</div><!-- end of .post-data --> 
+ 
+           
+
+<div class="post-edit"></div>  				               
+				      
+			</div><!-- end of #post-282 -->       
+			            
+                
+						<div id="post-281" class="post-281 post type-post status-publish format-standard hentry category-blgi">       
+				
+                
+				<h1 class="entry-title post-title"><a href="http://202.164.53.122/~manmeet/wordpress/?p=281" rel="bookmark">17th June</a></h1>
+
+<div class="post-meta">
+<span class="meta-prep meta-prep-author posted">Posted on </span><a href="http://202.164.53.122/~manmeet/wordpress/?p=281" title="3:59 pm" rel="bookmark"><span class="timestamp updated">June 17, 2013</span></a><span class="byline"> by </span><span class="author vcard"><a class="url fn n" href="http://202.164.53.122/~manmeet/wordpress/?author=1" title="View all posts by admin">admin</a></span>
+			<span class="comments-link">
+		<span class="mdash">&mdash;</span>
+	<a href="http://202.164.53.122/~manmeet/wordpress/?p=281#respond" title="Comment on 17th June">No Comments &darr;</a>		</span>
+	 
+</div><!-- end of .post-meta -->
+                
+                <div class="post-entry">
+                                        <p>Good day, today I delivered presentation on wordpress that was really a new experience as it was my first attempt, presentation was good everyone responded good, feeling great giving my first presentation with confidence next time to improve a lot.</p>
+                                    </div><!-- end of .post-entry -->
+                
+                
+
+	<div class="post-data">
+		 
+		Posted in <a href="http://202.164.53.122/~manmeet/wordpress/?cat=1" title="View all posts in BLOG" rel="category">BLOG</a> 
+	</div><!-- end of .post-data --> 
+ 
+           
+
+<div class="post-edit"></div>  				               
+				      
+			</div><!-- end of #post-281 -->       
+			            
+        
+	<div class="navigation">
+		<div class="previous"><a href="http://202.164.53.122/~manmeet/wordpress/?cat=1&#038;paged=2" >&#8249; Older posts</a></div>
+		<div class="next"></div>
+	</div><!-- end of .navigation -->
+
+	  
+      
+</div><!-- end of #content-archive -->
+        
+
+<div id="widgets" class="grid-right col-300 rtl-fit">
+			
+		<div id="rss-2" class="widget-wrapper widget_rss"><div class="widget-title"><a class='rsswidget' href='http://hs.raiandrai.com/bg/feed' title='Syndicate this content'><img style='border:0' width='14' height='14' src='http://202.164.53.122/~manmeet/wordpress/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://hs.raiandrai.com/bg' title='FOSS: freedom matters!'>UPDATES</a></div><ul><li><a class='rsswidget' href='http://hs.raiandrai.com/bg/2010/09/05/sup-text-base-mail-client/' title='SUP: Text base email client for persons, who handle a bulk of emails. No annoying graphics, advertisements. [&hellip;]'>SUP: Text base mail client</a> <span class="rss-date">September 5, 2010</span></li><li><a class='rsswidget' href='http://hs.raiandrai.com/bg/2009/05/06/foss-for-goi-supported-project/' title='Subject: IT Implementation in Power Sector via 100% grant by MoP GoI The Problem Ministry of Power (MoP)/ Power Finance Corporation (PFC) Govt of India under the XI th Plan has allocated around 10000 crore INR for IT implementation all over India in Power Utilities of State Govts by providing 100% grant to Power Utilities under the [&hellip;]'>FOSS for GOI supported project for Power Sector</a> <span class="rss-date">May 7, 2009</span></li><li><a class='rsswidget' href='http://hs.raiandrai.com/bg/2009/03/31/aman-in-india/' title='There is no excerpt because this is a protected post. [&hellip;]'>Protected: Aman in India</a> <span class="rss-date">March 31, 2009</span></li><li><a class='rsswidget' href='http://hs.raiandrai.com/bg/2009/02/09/drupal-profile-table-sql-query/' title='SELECT dr1_users.name, dr1_users.mail, dr1_profile_values.value, dr1_users_roles.rid FROM dr1_users, dr1_profile_values, dr1_users_roles WHERE dr1_users.uid = dr1_profile_values.uid and  dr1_profile_values.fid = 2 and dr1_users_roles.uid = dr1_users.uid and dr1_users_roles.rid = 3 Database drupal Prefix dr1_ Table: role rid     name 2       authenticated use [&hellip;]'>Drupal profile table: SQL query</a> <span class="rss-date">February 9, 2009</span></li></ul></div>
+	</div><!-- end of #widgets -->
+		    </div><!-- end of #wrapper -->
+    </div><!-- end of #container -->
+
+<div id="footer" class="clearfix">
+	
+    <div id="footer-wrapper">
+    
+        <div class="grid col-940">
+        
+        <div class="grid col-540">
+		         </div><!-- end of col-540 -->
+         
+         <div class="grid col-380 fit">
+         <ul class="social-icons"><li class="rss-feed-icon"><a href="http://hs,raiandrai.com/bg/feed"><img src="http://202.164.53.122/~manmeet/wordpress/wp-content/themes/responsive/icons/rss-feed-icon.png" width="24" height="24" alt="RSS Feed"></a></li></ul><!-- end of .social-icons -->         </div><!-- end of col-380 fit -->
+         
+         </div><!-- end of col-940 -->
+                             
+        <div class="grid col-300 copyright">
+            &copy; 2013<a href="http://202.164.53.122/~manmeet/wordpress/" title="raiandrai.com">
+                raiandrai.com            </a>
+        </div><!-- end of .copyright -->
+        
+        <div class="grid col-300 scroll-top"><a href="#scroll-top" title="scroll to top">&uarr;</a></div>
+        
+        <div class="grid col-300 fit powered">
+            <a href="http://themeid.com/responsive-theme/" title="Responsive Theme">
+                    Theme</a>
+            created by <a href="http://wordpress.org/" title="">
+                    Manmeet and Piyush</a>
+        </div><!-- end .powered -->
+        
+    </div><!-- end #footer-wrapper -->
+    
+	</div><!-- end #footer -->
+
+<img src="http://localhost/wordpress/wp-content/uploads/2013/06/Black-background1-300x234.gif" id="fsb_image"/><script type='text/javascript' src='http://202.164.53.122/~manmeet/wordpress/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.32.0-2013.04.03'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/202.164.53.122\/~manmeet\/wordpress\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://202.164.53.122/~manmeet/wordpress/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.4.1'></script>
+<script type='text/javascript' src='http://202.164.53.122/~manmeet/wordpress/wp-content/themes/responsive/js/responsive-scripts.js?ver=1.2.3'></script>
+<script type='text/javascript' src='http://202.164.53.122/~manmeet/wordpress/wp-content/themes/responsive/js/responsive-plugins.js?ver=1.2.3'></script>
+</body>
+</html>
+
